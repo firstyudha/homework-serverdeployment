@@ -10,5 +10,5 @@ jobs:
     - uses: akhileshns/heroku-deploy@v3.12.12
       with:
         heroku_api_key: ${{ secrets.HEROKU_APIKEY }}
-        heroku_app_name: "damp-scrubland-16344"
+        heroku_app_name: "protected-sea-91009"
         heroku_email: "yudhapratama.webdev@gmail.com"
